@@ -8,11 +8,9 @@
 
 ### 🚀 演示地址
 
-**前端访问地址**: https://debate-api-xxtz.onrender.com/ (已部署到Render云端)
+**后端API地址**: https://debate-api-xxtz.onrender.com/(已部署到Render云端)
 
-**后端API地址**: https://debate-api-xxtz.onrender.com/
-
-**GitHub仓库**: https://github.com/tttttty1121-oss/debate
+**GitHub仓库**: https://github.com/tttttty1121-oss/live-debate-fullstack
 
 ## 🧱 技术栈说明
 
