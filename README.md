@@ -215,7 +215,7 @@ git push origin main
 
 ```bash
 # 克隆项目
-git clone https://github.com/tttttty1121-oss/debate.git
+git clone https://github.com/tttttty1121-oss/live-debate-fullstack.git
 cd debate
 
 # 启动后端服务
